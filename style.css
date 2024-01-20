@@ -1,0 +1,23 @@
+body {
+	color: #1a1a1a;
+	background-color: black;
+	font-family: helvetica;
+	background-image:url(flashlight.jpg);
+	background-repeat:no-repeat;
+	background-position:50% 50%;
+	width: 100vw;
+	height: 100vh;
+	margin: 0 !important;
+/*	cursor:crosshair;*/
+}
+
+a {
+	text-decoration: none;
+	color: #1a1a1a;
+}
+
+#container {
+	position: fixed;
+	bottom: 40px;
+	left: 40px;
+}
